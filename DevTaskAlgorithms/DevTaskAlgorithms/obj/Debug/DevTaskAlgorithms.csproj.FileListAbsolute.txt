@@ -1,0 +1,8 @@
+C:\Users\admin\source\repos\DevTaskAlgorithms\DevTaskAlgorithms\bin\Debug\DevTaskAlgorithms.exe.config
+C:\Users\admin\source\repos\DevTaskAlgorithms\DevTaskAlgorithms\bin\Debug\DevTaskAlgorithms.exe
+C:\Users\admin\source\repos\DevTaskAlgorithms\DevTaskAlgorithms\bin\Debug\DevTaskAlgorithms.pdb
+C:\Users\admin\source\repos\DevTaskAlgorithms\DevTaskAlgorithms\obj\Debug\DevTaskAlgorithms.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\DevTaskAlgorithms\DevTaskAlgorithms\obj\Debug\DevTaskAlgorithms.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\source\repos\DevTaskAlgorithms\DevTaskAlgorithms\obj\Debug\DevTaskAlgorithms.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\DevTaskAlgorithms\DevTaskAlgorithms\obj\Debug\DevTaskAlgorithms.exe
+C:\Users\admin\source\repos\DevTaskAlgorithms\DevTaskAlgorithms\obj\Debug\DevTaskAlgorithms.pdb
